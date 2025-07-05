@@ -129,7 +129,7 @@ Provide an Excel file `ip_data.xlsx` with the following structure:
 | File                     | Description                               |
 | ------------------------ | ----------------------------------------- |
 | `subnet_report.json`     | Summary of subnets with calculated values |
-| `individual_results.csv` | Row-by-row breakdown of input analysis    |
+| `results.csv` | Row-by-row breakdown of input analysis    |
 | `network_plot.png`       | Bar chart: Hosts per subnet               |
 
 ---
